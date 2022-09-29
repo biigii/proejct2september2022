@@ -1,1 +1,37 @@
+body {
+  background-color: lightgreen;
+}
 
+h1 {
+  color: blue;
+  text-transform: uppercase;
+}
+
+.first {
+  color: red;
+  background-color: pink;
+}
+
+.second {
+  text-align: center;
+  color: purple;
+  background-color: lightgreen;
+}
+
+.last {
+  color: lightgoldenrodyellow;
+  background-color: black;
+}
+
+.subheading{
+  color: red;
+}
+
+#text {
+  color: green;
+}
+
+#another-text {
+  background-color: green;
+  color: lightcoral
+}
